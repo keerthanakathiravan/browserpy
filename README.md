@@ -1,2 +1,1 @@
-
-So it is a basic browser creation coding
+With only 40 lines you can create your own browser
